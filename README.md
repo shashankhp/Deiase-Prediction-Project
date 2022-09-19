@@ -56,6 +56,3 @@ Press Prediction 4 for K-Nearest neighbour</br>
 Disease Recommendation will be available infront of the  labels of algorithm of user's choice.
 ## Step 5:
 Click on "Reset" button to predict the disease for any other patient or Press "Exit System" button to come out of the GUI.
-
-# A picture of GUI Interface
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/GUI/GUI.PNG)
