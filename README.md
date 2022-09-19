@@ -8,14 +8,6 @@ type of system, the user face problem in understanding the heterogeneous medical
 the users are laymen. User is confused because a large amount of medical information on 
 different mediums are available.The idea behind recommender system is to adapt to cope with the special requirements of the health domain related with users.
 
-# Registration Number
-* 11716071-Sudhanshu Agrawal
-* 11716106-Rohan Agrawal
-* 11716665-Aditya Arya
-
-# Visit Website
-https://sites.google.com/view/mlprojectdiseaseprediction/documentation
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/WebsiteLink/Capture.PNG)
 
 # Explanation of Files
 ## training.csv
